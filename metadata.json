@@ -1,0 +1,6 @@
+{
+  "name": "Ambient Frame",
+  "description": "Dynamic TV background slideshow of your Google Photos favorites with ambient clock, Ken Burns motion, and remote controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ambient Frame</string>
+    <string name="open_google_photos">Open Google Photos</string>
+    <string name="favorites_slideshow">Favorites Slideshow</string>
+    <string name="ambient_mode">Ambient TV Display</string>
+    <string name="settings">Settings</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="add_favorites">Add Favorites</string>
+    <string name="speed">Speed</string>
+</resources>
